@@ -16,22 +16,22 @@
 
 ## 最低配置
 
-1.操作系统:
+>1.操作系统:
 Windows10以上(需要 64 或32位操作系统)
 
-2.处理器:
+>2.处理器:
 Intel Core 2 Duo
 
-3.内存:
+>3.内存:
 4 GB RAM
 
-4.显卡:
+>4.显卡:
 OpenGL 3.0 compliant video card
 
-5.存储空间:
+>5.存储空间:
 需要 1300 MB 可用空间
 
-6.附注事项:
+>6.附注事项:
 The game only supports keyboards.
 
 ## 下载流程
