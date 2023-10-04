@@ -56,4 +56,4 @@
    ```
 2.进入官网下载游戏
 
-  官网游戏下载地址：[www.ymjk.online](http://www.ymjk.online/XiaZai.html)
+  官网游戏下载地址：[www.ymjk.online/XiaZai.html](http://www.ymjk.online/XiaZai.html)
