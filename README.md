@@ -7,7 +7,7 @@
 游戏类型：2D 横版 闯关 冒险
 
 我们的官网是：wwww.ymjk.online,欢迎进入官网了解我们的游戏
-
+- [flyctl](https://fly.io/docs/getting-started/installing-flyctl/)
 </div>
 
 
