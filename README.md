@@ -34,6 +34,17 @@ OpenGL 3.0 compliant video card
 >6.附注事项:
 The game only supports keyboards.
 
+## 📝 最低配置
+
+| name                         | description                                                                                                                                                                          |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 操作系统                      | API endpoint of ChatGPT                                                                                                                                                              |
+| 处理器                        | [create new secret key](https://platform.openai.com/account/api-keys)                                                                                                                |
+| 内存                          | ID of the model to use. Currently, only gpt-3.5-turbo and gpt-3.5-turbo-0301 are supported.                                                                                          |
+| 显卡                  | What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic. |
+| 存储空间            | Private chat triggering rules.                                                                                                                                                       |
+| 附注事项        | Prohibited to use ChatGPT in group chat.                                                                                                                                             |
+
 ## 下载流程
 > 该游戏提供了简单且便利的打开方式
 1. 克隆到本地git仓库
