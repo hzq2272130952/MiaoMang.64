@@ -8,7 +8,7 @@
 
 
 
-<a href="www.ymjk.online">点击此处进入我们的官网地址</a>
+<a href="htttps://www.ymjk.online">点击此处进入我们的官网地址</a>
 
 欢迎进入官网了解我们的游戏
 </div>
