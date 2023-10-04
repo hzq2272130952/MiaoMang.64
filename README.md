@@ -29,7 +29,7 @@
 ## ⌨️ 下载流程
 > 该游戏提供了简单且便利的打开方式
 
-> fly.io offers free bills up to $5(Free Allowances 3 256MB are not included in the bill)
+> 只需要克隆到本地点击解压后即可游玩
 1. 克隆到本地git仓库
    ```shell
    git clone https://github.com/hzq2272130952/MiaoMang.64.git
