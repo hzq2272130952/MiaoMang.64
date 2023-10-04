@@ -26,7 +26,7 @@
 | 存储空间                                 | 需要 1300 MB 可用空间                                                                                                                                                       |
 | 附注事项                                 | Prohibited to use ChatGPT in group chat.                                                                                                                                   |
 
-## 下载流程
+## ⌨️ 下载流程
 > 该游戏提供了简单且便利的打开方式
 
 > fly.io offers free bills up to $5(Free Allowances 3 256MB are not included in the bill)
