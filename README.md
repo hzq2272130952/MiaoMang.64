@@ -41,8 +41,8 @@ The game only supports keyboards.
 | 操作系统                      | API endpoint of ChatGPT                                                                                                                                                              |
 | 处理器                        | [create new secret key](https://platform.openai.com/account/api-keys)                                                                                                                |
 | 内存                          | ID of the model to use. Currently, only gpt-3.5-turbo and gpt-3.5-turbo-0301 are supported.                                                                                          |
-| 显卡                  | What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic. |
-| 存储空间            | Private chat triggering rules.                                                                                                                                                       |
+| 显卡                           | What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic. |
+| 存储空间             | Private chat triggering rules.                                                                                                                                                       |
 | 附注事项        | Prohibited to use ChatGPT in group chat.                                                                                                                                             |
 
 ## 下载流程
