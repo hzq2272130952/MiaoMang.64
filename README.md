@@ -49,6 +49,7 @@
 
 ## 其他下载方式
 >当然也有许多国内的git小白朋友们不懂得如何下载git，这边我们也提供了国内下载方式
+
 1.百度网盘
   ```shell
       https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234
