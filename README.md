@@ -4,6 +4,7 @@
 当前用于山东省软件设计大赛初审，此游戏暂未开源，如有需要请加QQ交流群：415235597
 
 > 我们的官网是：wwww.ymjk.online,欢迎进入官网了解我们的游戏
+> [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/dMLG70?referralCode=bIYugQ)
 
 > 游戏类型：2D 横版 闯关 冒险
 
