@@ -55,5 +55,6 @@
       https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234
    ```
 2.进入官网下载游戏
-
-  官网游戏下载地址：[www.ymjk.online/XiaZai.html](http://www.ymjk.online/XiaZai.html)
+   ```shell
+      http://www.ymjk.online/XiaZai.html
+   ```
