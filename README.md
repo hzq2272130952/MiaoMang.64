@@ -6,9 +6,7 @@
 
 游戏类型：2D 横版 闯关 冒险
 
-
-
-<a href="https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234">https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234</a>
+渺茫游戏官网：www.ymjk.online
 
 欢迎进入官网了解我们的游戏
 </div>
