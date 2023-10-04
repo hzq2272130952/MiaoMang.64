@@ -1,10 +1,10 @@
 <div align="center">
    
 <h1 align="center">欢迎来到我们的渺茫游戏 👋</h1>
-渺茫游戏的Windows64位版本
-
 
 <img src="主图标.png" alt="png"/>
+
+渺茫游戏的Windows64位版本
 
 当前用于山东省软件设计大赛初审，此游戏暂未开源，如有需要请加QQ交流群：415235597
 
