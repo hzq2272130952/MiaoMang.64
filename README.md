@@ -1,5 +1,5 @@
 <h1 align="center">欢迎来到我们的渺茫游戏 👋</h1>
-渺茫游戏的Windows64位版本
+<text align="center">渺茫游戏的Windows64位版本</text>
 
 > 游戏类型：2D 横版 闯关 冒险
 
