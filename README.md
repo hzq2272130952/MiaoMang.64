@@ -7,7 +7,7 @@
 游戏类型：2D 横版 闯关 冒险
 
 我们的官网是：wwww.ymjk.online,欢迎进入官网了解我们的游戏
-<a href="https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234">https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234</a>
+<a href="www.ymjk.online">点击此处进入我们的官网地址</a>
 </div>
 
 
