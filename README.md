@@ -39,7 +39,7 @@ The game only supports keyboards.
    ```shell
    git clone https://github.com/hzq2272130952/MiaoMang.64.git
    ```
-2.安装游戏（游戏已经打包好了）
+ 2.安装游戏（游戏已经打包好了）
    ```shell
     1. 打开MiaoMang64.exe
     2. 进入后点击浏览将游戏放在你想要放的地方（在解压以后会把游戏的快捷方式放在您的桌面）
