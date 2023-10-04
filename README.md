@@ -6,7 +6,7 @@
 
 游戏类型：2D 横版 闯关 冒险
 
-渺茫游戏官网：www.ymjk.online
+渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
 
 欢迎进入官网了解我们的游戏
 </div>
@@ -56,4 +56,4 @@
    ```
 2.进入官网下载游戏
 
-  官网：[www.ymjk.online](http://www.ymjk.online/XiaZai.html)
+  官网游戏下载地址：[www.ymjk.online](http://www.ymjk.online/XiaZai.html)
