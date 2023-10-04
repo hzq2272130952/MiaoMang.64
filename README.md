@@ -48,7 +48,7 @@
     - 步骤4：游戏就可以正常游玩啦
 
 ## 其他下载方式
->当然也有许多国内的git小白朋友们不懂得如何下载git，这边我们也提供了国内下载方式
+>当然也有许多国内的git小白朋友们不懂得如何下载git且使用，这边我们也提供了国内下载方式
 
 1.百度网盘
   ```shell
@@ -56,4 +56,4 @@
    ```
 2.进入官网下载游戏
 
-  官网：www.ymjk.online
+  官网：[www.ymjk.online](http://www.ymjk.online/XiaZai.html)http://www.ymjk.online/XiaZai.html
