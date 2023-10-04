@@ -54,7 +54,7 @@
   ```shell
       https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234
    ```
-2.进入官网下载游戏
+2.官网下载游戏
    ```shell
        http://www.ymjk.online/XiaZai.html
    ```
