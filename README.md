@@ -8,7 +8,7 @@
 
 
 
-<a href="www.ymjk.online">www.ymjk.online</a>
+<a href="https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234">https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234</a>
 
 欢迎进入官网了解我们的游戏
 </div>
