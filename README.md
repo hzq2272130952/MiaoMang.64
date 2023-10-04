@@ -28,7 +28,7 @@
 ## 游戏截图
 <img src="游戏截图.jpg" alt="jpg"/>
 
-<img src="游戏截图2.jpg" alt="jpg"/>
+<img src="游戏截图1.jpg" alt="jpg"/>
 
 ## 📝 最低配置
 
