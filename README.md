@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="主图标.png"/>
+   <img src="主图标.png" alt="logo"/>
 <h1 align="center">欢迎来到我们的渺茫游戏 👋</h1>
 渺茫游戏的Windows64位版本
 
