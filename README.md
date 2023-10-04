@@ -56,5 +56,5 @@
    ```
 2.进入官网下载游戏
    ```shell
-      http://www.ymjk.online/XiaZai.html
+       http://www.ymjk.online/XiaZai.html
    ```
