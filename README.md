@@ -13,9 +13,9 @@
 
 >游戏类型：2D 横版 闯关 冒险
 
-渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
+ 渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
 
-欢迎进入官网了解我们的游戏
+ 欢迎进入官网了解我们的游戏
 
 
 
